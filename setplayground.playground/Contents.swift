@@ -1,12 +1,8 @@
-//
-//  Sets.swift
-//  Swift_Scripts
-//
-//  Created by Joshua Weinstein on 2/20/16.
-//
-//
+//: Playground - noun: a place where people can play
 
-import Foundation
+import Cocoa
+
+var str = "Hello, playground"
 
 func readstring() ->String {
     let input = readLine()
@@ -19,16 +15,12 @@ func readstring() ->String {
 
 struct setmaker {
     static func makeset(d:String) -> Set<String> {
-        var strset:Set = [d]
+        let strset:Set = [d]
         return strset
     }
 }
 
 print("Say a number", terminator:" ")
-var given = readstring()
+var given = "foo"
 var newproduct = setmaker.makeset(given)
 print(newproduct)
-
-
-
-
