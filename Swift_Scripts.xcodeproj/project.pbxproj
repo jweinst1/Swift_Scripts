@@ -7,17 +7,25 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		03B748701C78ED1200A2B906 /* Sets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sets.swift; sourceTree = "<group>"; };
 		03B748711C7904DB00A2B906 /* setplayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = setplayground.playground; sourceTree = "<group>"; };
+		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		03B748691C78ECCD00A2B906 = {
 			isa = PBXGroup;
 			children = (
+				03B748721C79289B00A2B906 /* Arrays */,
 				03B748711C7904DB00A2B906 /* setplayground.playground */,
-				03B748701C78ED1200A2B906 /* Sets.swift */,
 			);
+			sourceTree = "<group>";
+		};
+		03B748721C79289B00A2B906 /* Arrays */ = {
+			isa = PBXGroup;
+			children = (
+				03B748731C7928B000A2B906 /* Summation.playground */,
+			);
+			name = Arrays;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
