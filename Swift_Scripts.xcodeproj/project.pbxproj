@@ -10,6 +10,7 @@
 		03B748711C7904DB00A2B906 /* setplayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = setplayground.playground; sourceTree = "<group>"; };
 		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 		03B748751C792E3100A2B906 /* Structinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structinit.playground; sourceTree = "<group>"; };
+		03B748761C793DA500A2B906 /* intmachine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = intmachine.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -34,6 +35,7 @@
 			isa = PBXGroup;
 			children = (
 				03B748751C792E3100A2B906 /* Structinit.playground */,
+				03B748761C793DA500A2B906 /* intmachine.playground */,
 			);
 			name = Structs;
 			sourceTree = "<group>";
