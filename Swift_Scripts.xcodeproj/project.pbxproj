@@ -11,12 +11,14 @@
 		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 		03B748751C792E3100A2B906 /* Structinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structinit.playground; sourceTree = "<group>"; };
 		03B748761C793DA500A2B906 /* intmachine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = intmachine.playground; sourceTree = "<group>"; };
+		03B748911C7D001300A2B906 /* Convertnubmertostring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Convertnubmertostring.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		03B748691C78ECCD00A2B906 = {
 			isa = PBXGroup;
 			children = (
+				03B748901C7CFFF200A2B906 /* Numbering */,
 				03B748741C792E1D00A2B906 /* Structs */,
 				03B748721C79289B00A2B906 /* Arrays */,
 				03B748711C7904DB00A2B906 /* setplayground.playground */,
@@ -38,6 +40,14 @@
 				03B748761C793DA500A2B906 /* intmachine.playground */,
 			);
 			name = Structs;
+			sourceTree = "<group>";
+		};
+		03B748901C7CFFF200A2B906 /* Numbering */ = {
+			isa = PBXGroup;
+			children = (
+				03B748911C7D001300A2B906 /* Convertnubmertostring.playground */,
+			);
+			name = Numbering;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
