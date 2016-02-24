@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		030629841C7E4B0900E5068F /* hasharrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hasharrays.playground; sourceTree = "<group>"; };
 		0333F1ED1C7D5763006CF88A /* NumberStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberStruct.playground; sourceTree = "<group>"; };
 		0333F1EE1C7D7236006CF88A /* BinaryNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinaryNumber.playground; sourceTree = "<group>"; };
 		0333F1F01C7D7C9E006CF88A /* Links.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Links.playground; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 			isa = PBXGroup;
 			children = (
 				03B748731C7928B000A2B906 /* Summation.playground */,
+				030629841C7E4B0900E5068F /* hasharrays.playground */,
 			);
 			name = Arrays;
 			sourceTree = "<group>";
