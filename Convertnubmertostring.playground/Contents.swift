@@ -67,7 +67,20 @@ func NumToString(num:Int) ->String {
     return "a"
 }
 
-var t = 750
+//gets the length of an alpha conversion
+func findlength(num:Int) ->Int {
+    var start = 0
+    var end = 26
+    var count = 1
+    while end <= num {
+        count++
+        start = end
+        end *= 26
+    }
+    return count
+}
+
+
 
 
 
