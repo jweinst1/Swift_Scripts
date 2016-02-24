@@ -5,22 +5,31 @@ import Cocoa
 
 struct Number {
     var sequence:[Character]
-    var current:String
+    var current: [Character]
     var index:Int
+    var last:Character
     
     init(seq:String) {
         self.sequence = Array(seq.characters)
-        self.current = String(self.sequence[0])
+        self.current = [self.sequence[0]]
         self.index = 0
+        self.last = self.sequence[self.sequence.count-1]
+        
     }
     //prints the current value of the number
     func value() ->Void {
-        print(self.current)
+        var printable = ""
+        for elem in self.current {
+            printable += String(elem)
+        }
+        print(printable)
     }
     
-    func increment() ->Void {
-        if self.index == self.sequence.count {
-            
-        }
+    mutating func increment() ->Void {
+        //increments the number
+    }
+    
+    mutating func decrement() ->Void {
+        //decrements the number
     }
 }

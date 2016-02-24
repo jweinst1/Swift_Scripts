@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		0333F1ED1C7D5763006CF88A /* NumberStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberStruct.playground; sourceTree = "<group>"; };
+		0333F1EE1C7D7236006CF88A /* BinaryNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinaryNumber.playground; sourceTree = "<group>"; };
 		03B748711C7904DB00A2B906 /* setplayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = setplayground.playground; sourceTree = "<group>"; };
 		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 		03B748751C792E3100A2B906 /* Structinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structinit.playground; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 				03B748751C792E3100A2B906 /* Structinit.playground */,
 				03B748761C793DA500A2B906 /* intmachine.playground */,
 				0333F1ED1C7D5763006CF88A /* NumberStruct.playground */,
+				0333F1EE1C7D7236006CF88A /* BinaryNumber.playground */,
 			);
 			name = Structs;
 			sourceTree = "<group>";
