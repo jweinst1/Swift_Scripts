@@ -10,9 +10,11 @@
 		030629841C7E4B0900E5068F /* hasharrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hasharrays.playground; sourceTree = "<group>"; };
 		030629861C7E5B6600E5068F /* Intcluster.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Intcluster.playground; sourceTree = "<group>"; };
 		030629871C7E5F1000E5068F /* generators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = generators.playground; sourceTree = "<group>"; };
+		032C8CD01C85095D001838AD /* LexingStrings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LexingStrings.playground; sourceTree = "<group>"; };
 		0333F1ED1C7D5763006CF88A /* NumberStruct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NumberStruct.playground; sourceTree = "<group>"; };
 		0333F1EE1C7D7236006CF88A /* BinaryNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinaryNumber.playground; sourceTree = "<group>"; };
 		0333F1F01C7D7C9E006CF88A /* Links.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Links.playground; sourceTree = "<group>"; };
+		039AF5441C86807E003D3025 /* TokensAndTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TokensAndTypes.playground; sourceTree = "<group>"; };
 		03B748711C7904DB00A2B906 /* setplayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = setplayground.playground; sourceTree = "<group>"; };
 		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 		03B748751C792E3100A2B906 /* Structinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structinit.playground; sourceTree = "<group>"; };
@@ -41,6 +43,8 @@
 		03B748691C78ECCD00A2B906 = {
 			isa = PBXGroup;
 			children = (
+				039AF5441C86807E003D3025 /* TokensAndTypes.playground */,
+				032C8CD01C85095D001838AD /* LexingStrings.playground */,
 				030629851C7E5B0800E5068F /* Clusters */,
 				0333F1EF1C7D7C8E006CF88A /* Ordering */,
 				03B748901C7CFFF200A2B906 /* Numbering */,
