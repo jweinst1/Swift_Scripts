@@ -34,4 +34,12 @@ func addright(var stack:[Any], first:Int, second:Int) -> [Any] {
 print(addright(table, first:0, second:1))
 //[IntToken(value: 7), IntToken(value: 11)]
 
+func maketable(values:[Int]) -> [Any] {
+    var tokens = [Any]()
+    for elem in values {
+        tokens.append(IntToken(val:elem))
+    }
+    return tokens
+}
+
 
