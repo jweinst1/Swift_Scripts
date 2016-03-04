@@ -16,6 +16,7 @@
 		0333F1F01C7D7C9E006CF88A /* Links.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Links.playground; sourceTree = "<group>"; };
 		039AF5441C86807E003D3025 /* TokensAndTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TokensAndTypes.playground; sourceTree = "<group>"; };
 		039AF5451C8A0882003D3025 /* Parsing_Opers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Parsing_Opers.playground; sourceTree = "<group>"; };
+		039AF5461C8A1B96003D3025 /* CustomOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CustomOperators.playground; sourceTree = "<group>"; };
 		03B748711C7904DB00A2B906 /* setplayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = setplayground.playground; sourceTree = "<group>"; };
 		03B748731C7928B000A2B906 /* Summation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summation.playground; sourceTree = "<group>"; };
 		03B748751C792E3100A2B906 /* Structinit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structinit.playground; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		03B748691C78ECCD00A2B906 = {
 			isa = PBXGroup;
 			children = (
+				039AF5461C8A1B96003D3025 /* CustomOperators.playground */,
 				039AF5451C8A0882003D3025 /* Parsing_Opers.playground */,
 				039AF5441C86807E003D3025 /* TokensAndTypes.playground */,
 				032C8CD01C85095D001838AD /* LexingStrings.playground */,
