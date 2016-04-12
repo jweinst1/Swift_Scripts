@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../google-api-objectivec-client/Source/Services/Calendar/Generated/GTLCalendar.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../google-api-objectivec-client/Source/Services/Calendar/Generated/GTLCalendar_Sources.m">
+   </FileRef>
+   <FileRef
+      location = "container:Calendartest/Calendartest.xcodeproj">
+   </FileRef>
+</Workspace>
